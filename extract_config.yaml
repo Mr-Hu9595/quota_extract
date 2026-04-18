@@ -1,0 +1,44 @@
+# 定额数据库提取配置
+# GLM-OCR 参数：temperature=0 防止幻觉
+
+pipeline:
+  maas:
+    enabled: false
+
+  # OCR API - 本地 vLLM/SGLang 服务地址
+  # 注意：本项目使用 transformers 直接加载，跳过此配置
+  ocr_api:
+    api_host: localhost
+    api_port: 8080
+
+  # 布局检测
+  layout:
+    enabled: true
+    model_dir: D:/models/PP-DocLayoutV3_safetensors
+    device: cpu  # 布局检测放 CPU
+    batch_size: 1
+
+  # 分页加载器
+  page_loader:
+    max_tokens: 8192
+    temperature: 0.0        # 关键：禁止创造性输出
+    top_p: 0.00001          # 关键：配合 temperature=0
+    top_k: 1                # 关键：贪婪解码
+    repetition_penalty: 1.1
+
+    # 定额数据主要是表格，使用表格识别 prompt
+    task_prompt_mapping:
+      text: "严格提取以下文本，保持原有格式和数字，不要遗漏任何内容："
+      table: "严格提取以下表格数据，保持原有格式、数字和单位，不要遗漏任何行列数据："
+      formula: "严格提取以下公式内容："
+
+  # 结果格式化
+  result_formatter:
+    output_format: both
+    enable_merge_formula_numbers: true
+    enable_merge_text_blocks: true
+    enable_format_bullet_points: false
+
+# 日志
+logging:
+  level: INFO
