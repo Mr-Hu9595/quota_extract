@@ -48173,6 +48173,1949 @@
           "total": 9103.64
         }
       ]
+    },
+    {
+      "code": "1-2-24",
+      "name": "液压机 设备重量1t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 1851.64,
+      "labor_fee": 1006.52,
+      "material_fee": 115.94,
+      "mechanical_fee": 196.62,
+      "source_screenshot": "bandicam 2026-04-27 16-22-42-348.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 1.549,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 134.92
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 5.576,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 747.18
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 0.619,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 124.42
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 6.24,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 28.08
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 5.3,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 23.85
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 0.65,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 3.37
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 0.263,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 1.08
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.013,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 25.09
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.408,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 2.86
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 2.1,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 17.72
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.505,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 6.11
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.202,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 2.26
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 5.52,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 5.52
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990305020",
+          "name": "叉式起重机",
+          "spec": "提升质量(t) 5",
+          "unit": "台班",
+          "quantity": 0.2,
+          "quota_price": 449.76,
+          "market_price": 449.76,
+          "total": 89.95
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.1,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 8.36
+        }
+      ]
+    },
+    {
+      "code": "1-2-25",
+      "name": "液压机 设备重量3t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 3703.58,
+      "labor_fee": 1848.26,
+      "material_fee": 171.5,
+      "mechanical_fee": 455.29,
+      "source_screenshot": "bandicam 2026-04-27 16-22-56-904.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 2.843,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 247.63
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 10.238,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 1371.89
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 1.138,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 228.74
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 8.32,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 37.44
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 7.94,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 35.73
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 0.8,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 4.14
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 0.263,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 1.08
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.02,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 38.6
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.224,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 8.57
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 2.625,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 22.16
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.01,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 12.22
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.303,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 3.39
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 8.17,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 8.17
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990305020",
+          "name": "叉式起重机",
+          "spec": "提升质量(t) 5",
+          "unit": "台班",
+          "quantity": 0.4,
+          "quota_price": 449.76,
+          "market_price": 449.76,
+          "total": 179.9
+        },
+        {
+          "code": "990304016",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 16",
+          "unit": "台班",
+          "quantity": 0.3,
+          "quota_price": 890.11,
+          "market_price": 890.11,
+          "total": 267.03
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.1,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 8.36
+        }
+      ]
+    },
+    {
+      "code": "1-2-26",
+      "name": "液压机 设备重量5t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 5887.06,
+      "labor_fee": 2912.86,
+      "material_fee": 254.11,
+      "mechanical_fee": 759.35,
+      "source_screenshot": "bandicam 2026-04-27 16-23-07-623.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 4.482,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 390.38
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 16.135,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 2162.09
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 1.793,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 360.39
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 14.41,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 64.85
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 11.308,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 50.89
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 0.8,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 4.14
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 0.525,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 2.15
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.031,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 59.83
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.53,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 10.71
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 3.15,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 26.59
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.515,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 18.33
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.404,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 4.52
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 12.1,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 12.1
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990305020",
+          "name": "叉式起重机",
+          "spec": "提升质量(t) 5",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 449.76,
+          "market_price": 449.76,
+          "total": 224.88
+        },
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 0.3,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 172.14
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.2,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 16.71
+        },
+        {
+          "code": "990304004",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 8",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 691.24,
+          "market_price": 691.24,
+          "total": 345.62
+        }
+      ]
+    },
+    {
+      "code": "1-2-27",
+      "name": "液压机 设备重量7t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 7630.83,
+      "labor_fee": 3538.98,
+      "material_fee": 360.11,
+      "mechanical_fee": 1248.97,
+      "source_screenshot": "bandicam 2026-04-27 16-23-19-385.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 5.445,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 474.26
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 19.604,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 2626.94
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 2.178,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 437.78
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 19.99,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 89.96
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 16.93,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 76.19
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 2,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 10.36
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 0.525,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 2.15
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.043,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 82.99
+        },
+        {
+          "code": "05010106",
+          "name": "道木",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.007,
+          "quota_price": 1048,
+          "market_price": 1048,
+          "total": 7.34
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.836,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 12.85
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 3.675,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 31.02
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 2.02,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 24.44
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.505,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 5.66
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 17.15,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 17.15
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 286.9
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.2,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 16.71
+        },
+        {
+          "code": "990304004",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 8",
+          "unit": "台班",
+          "quantity": 0.8,
+          "quota_price": 691.24,
+          "market_price": 691.24,
+          "total": 552.99
+        },
+        {
+          "code": "990304012",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 12",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 784.73,
+          "market_price": 784.73,
+          "total": 392.37
+        }
+      ]
+    },
+    {
+      "code": "1-2-28",
+      "name": "液压机 设备重量10t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 10328.47,
+      "labor_fee": 5015.52,
+      "material_fee": 452.68,
+      "mechanical_fee": 1453.42,
+      "source_screenshot": "bandicam 2026-04-27 16-23-43-164.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 7.718,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 672.24
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 27.782,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 3722.79
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 3.087,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 620.49
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 25.2,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 113.4
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 22.93,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 103.19
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 2,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 10.36
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 0.525,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 2.15
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.048,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 92.64
+        },
+        {
+          "code": "05010106",
+          "name": "道木",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.007,
+          "quota_price": 1048,
+          "market_price": 1048,
+          "total": 7.34
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 2.04,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 14.28
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 5.25,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 44.31
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 3.03,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 36.66
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.606,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 6.79
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 21.56,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 21.56
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 286.9
+        },
+        {
+          "code": "990304016",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 16",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 890.11,
+          "market_price": 890.11,
+          "total": 445.06
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.2,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 16.71
+        },
+        {
+          "code": "990304004",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 8",
+          "unit": "台班",
+          "quantity": 1,
+          "quota_price": 691.24,
+          "market_price": 691.24,
+          "total": 691.24
+        }
+      ]
+    },
+    {
+      "code": "1-2-29",
+      "name": "液压机 设备重量15t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 14611.63,
+      "labor_fee": 7097.04,
+      "material_fee": 656.85,
+      "mechanical_fee": 2035.69,
+      "source_screenshot": "bandicam 2026-04-27 16-23-53-506.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 10.92,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 951.13
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 39.313,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 5267.94
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 4.368,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 877.97
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 28.41,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 127.85
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 24.95,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 112.28
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 3.5,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 18.13
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 1.05,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 4.31
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.069,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 133.17
+        },
+        {
+          "code": "05010106",
+          "name": "道木",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.007,
+          "quota_price": 1048,
+          "market_price": 1048,
+          "total": 7.34
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 3.06,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 21.42
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 9.45,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 79.76
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 8.08,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 97.77
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.808,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 9.05
+        },
+        {
+          "code": "14310111",
+          "name": "盐酸",
+          "spec": "31%合成",
+          "unit": "kg",
+          "quantity": 10,
+          "quota_price": 0.88,
+          "market_price": 0.88,
+          "total": 8.8
+        },
+        {
+          "code": "15010113",
+          "name": "石棉橡胶板",
+          "spec": "高压 δ1~6",
+          "unit": "kg",
+          "quantity": 0.35,
+          "quota_price": 33,
+          "market_price": 33,
+          "total": 11.55
+        },
+        {
+          "code": "17010171",
+          "name": "焊接钢管",
+          "spec": "DN15",
+          "unit": "m",
+          "quantity": 0.35,
+          "quota_price": 5.1,
+          "market_price": 5.1,
+          "total": 1.79
+        },
+        {
+          "code": "19050201",
+          "name": "螺纹球阀",
+          "spec": "DN15",
+          "unit": "个",
+          "quantity": 0.3,
+          "quota_price": 26,
+          "market_price": 26,
+          "total": 7.8
+        },
+        {
+          "code": "31190116",
+          "name": "红钢纸",
+          "spec": "0.2~0.5",
+          "unit": "kg",
+          "quantity": 0.3,
+          "quota_price": 12,
+          "market_price": 12,
+          "total": 3.6
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 32.23,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 32.23
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 286.9
+        },
+        {
+          "code": "990304004",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 8",
+          "unit": "台班",
+          "quantity": 1.7,
+          "quota_price": 691.24,
+          "market_price": 691.24,
+          "total": 1175.11
+        },
+        {
+          "code": "990304024",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 25",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 1017.25,
+          "market_price": 1017.25,
+          "total": 508.63
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.4,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 33.43
+        }
+      ]
+    },
+    {
+      "code": "1-2-30",
+      "name": "液压机 设备重量20t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 19668.99,
+      "labor_fee": 9384.56,
+      "material_fee": 993.38,
+      "mechanical_fee": 6426.87,
+      "source_screenshot": "bandicam 2026-04-27 16-24-07-993.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 14.44,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 1257.72
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 51.984,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 6965.86
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 5.776,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 1160.98
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 44.35,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 199.58
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 39.19,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 176.36
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 3.6,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 18.65
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 1.05,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 4.31
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.088,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 169.84
+        },
+        {
+          "code": "05010106",
+          "name": "道木",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.069,
+          "quota_price": 1048,
+          "market_price": 1048,
+          "total": 72.31
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 3.57,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 24.99
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 12.6,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 106.34
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 10.1,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 122.21
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钠基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 0.808,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 9.05
+        },
+        {
+          "code": "14310111",
+          "name": "盐酸",
+          "spec": "31%合成",
+          "unit": "kg",
+          "quantity": 15,
+          "quota_price": 0.88,
+          "market_price": 0.88,
+          "total": 13.2
+        },
+        {
+          "code": "15010113",
+          "name": "石棉橡胶板",
+          "spec": "高压 δ1~6",
+          "unit": "kg",
+          "quantity": 0.45,
+          "quota_price": 33,
+          "market_price": 33,
+          "total": 14.85
+        },
+        {
+          "code": "17010171",
+          "name": "焊接钢管",
+          "spec": "DN15",
+          "unit": "m",
+          "quantity": 0.35,
+          "quota_price": 5.1,
+          "market_price": 5.1,
+          "total": 1.79
+        },
+        {
+          "code": "19050201",
+          "name": "螺纹钢阀",
+          "spec": "DN15",
+          "unit": "个",
+          "quantity": 0.3,
+          "quota_price": 26,
+          "market_price": 26,
+          "total": 7.8
+        },
+        {
+          "code": "31190116",
+          "name": "红钢纸",
+          "spec": "0.2~0.5",
+          "unit": "kg",
+          "quantity": 0.4,
+          "quota_price": 12,
+          "market_price": 12,
+          "total": 4.8
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 47.3,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 47.3
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 286.9
+        },
+        {
+          "code": "990304004",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 8",
+          "unit": "台班",
+          "quantity": 0.7,
+          "quota_price": 691.24,
+          "market_price": 691.24,
+          "total": 483.87
+        },
+        {
+          "code": "990304040",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 50",
+          "unit": "台班",
+          "quantity": 1,
+          "quota_price": 2378.65,
+          "market_price": 2378.65,
+          "total": 2378.65
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.4,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 33.43
+        }
+      ]
+    },
+    {
+      "code": "1-2-31",
+      "name": "液压机 设备重量30t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 27564.52,
+      "labor_fee": 13293.08,
+      "material_fee": 1365.81,
+      "mechanical_fee": 8613.24,
+      "source_screenshot": "bandicam 2026-04-27 16-24-21-162.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 20.454,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 1781.54
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 73.634,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 9866.96
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 8.182,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 1644.58
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 69.43,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 312.44
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 57.12,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 257.04
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 5.1,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 26.42
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 1.05,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 4.31
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.125,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 241.25
+        },
+        {
+          "code": "05010106",
+          "name": "道木",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.069,
+          "quota_price": 1048,
+          "market_price": 1048,
+          "total": 72.31
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 5.1,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 35.7
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 16.8,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 141.79
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 12.12,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 146.65
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钙基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.01,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 11.31
+        },
+        {
+          "code": "14310111",
+          "name": "盐酸",
+          "spec": "31%合成",
+          "unit": "kg",
+          "quantity": 15,
+          "quota_price": 0.88,
+          "market_price": 0.88,
+          "total": 13.2
+        },
+        {
+          "code": "15010113",
+          "name": "石棉橡胶板",
+          "spec": "高压 δ1~6",
+          "unit": "kg",
+          "quantity": 0.55,
+          "quota_price": 33,
+          "market_price": 33,
+          "total": 18.15
+        },
+        {
+          "code": "19050201",
+          "name": "螺纹球阀",
+          "spec": "DN15",
+          "unit": "个",
+          "quantity": 0.5,
+          "quota_price": 26,
+          "market_price": 26,
+          "total": 13
+        },
+        {
+          "code": "31190116",
+          "name": "红钢纸",
+          "spec": "0.2~0.5",
+          "unit": "kg",
+          "quantity": 0.6,
+          "quota_price": 12,
+          "market_price": 12,
+          "total": 7.2
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 65.04,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 65.04
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990304016",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 16",
+          "unit": "台班",
+          "quantity": 1.7,
+          "quota_price": 890.11,
+          "market_price": 890.11,
+          "total": 1513.19
+        },
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 286.9
+        },
+        {
+          "code": "990304040",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 50",
+          "unit": "台班",
+          "quantity": 1,
+          "quota_price": 2378.65,
+          "market_price": 2378.65,
+          "total": 2378.65
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.4,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 33.43
+        }
+      ]
+    },
+    {
+      "code": "1-2-32",
+      "name": "液压机 设备重量40t以内",
+      "unit": "台",
+      "quantity": 1,
+      "comprehensive_price": 34801.06,
+      "labor_fee": 16400.13,
+      "material_fee": 2687.1,
+      "mechanical_fee": 10681.32,
+      "source_screenshot": "bandicam 2026-04-27 16-24-37-033.jpg",
+      "labor_details": [
+        {
+          "code": "00010101",
+          "name": "普工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 25.234,
+          "quota_price": 87.1,
+          "market_price": 87.1,
+          "total": 2197.88
+        },
+        {
+          "code": "00010102",
+          "name": "一般技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 90.846,
+          "quota_price": 134,
+          "market_price": 134,
+          "total": 12173.36
+        },
+        {
+          "code": "00010103",
+          "name": "高级技工",
+          "spec": "",
+          "unit": "工日",
+          "quantity": 10.094,
+          "quota_price": 201,
+          "market_price": 201,
+          "total": 2028.89
+        }
+      ],
+      "material_details": [
+        {
+          "code": "03210485",
+          "name": "平垫铁",
+          "spec": "综合",
+          "unit": "kg",
+          "quantity": 88.41,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 397.85
+        },
+        {
+          "code": "03210507",
+          "name": "斜垫铁",
+          "spec": "Q195~Q235 1#",
+          "unit": "kg",
+          "quantity": 80.39,
+          "quota_price": 4.5,
+          "market_price": 4.5,
+          "total": 361.76
+        },
+        {
+          "code": "01030723",
+          "name": "镀锌铁丝",
+          "spec": "φ4.0~2.8",
+          "unit": "kg",
+          "quantity": 5.2,
+          "quota_price": 5.18,
+          "market_price": 5.18,
+          "total": 26.94
+        },
+        {
+          "code": "03130929",
+          "name": "低碳钢焊条",
+          "spec": "J422 φ3.2",
+          "unit": "kg",
+          "quantity": 1.05,
+          "quota_price": 4.1,
+          "market_price": 4.1,
+          "total": 4.31
+        },
+        {
+          "code": "05030139",
+          "name": "木板",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.25,
+          "quota_price": 1930,
+          "market_price": 1930,
+          "total": 482.5
+        },
+        {
+          "code": "05010106",
+          "name": "道木",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 0.138,
+          "quota_price": 1048,
+          "market_price": 1048,
+          "total": 144.62
+        },
+        {
+          "code": "14030126",
+          "name": "汽油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 8.16,
+          "quota_price": 7,
+          "market_price": 7,
+          "total": 57.12
+        },
+        {
+          "code": "14030116",
+          "name": "煤油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 21,
+          "quota_price": 8.44,
+          "market_price": 8.44,
+          "total": 177.24
+        },
+        {
+          "code": "14050151",
+          "name": "机油",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 14.14,
+          "quota_price": 12.1,
+          "market_price": 12.1,
+          "total": 171.09
+        },
+        {
+          "code": "14090119",
+          "name": "黄油钠基脂",
+          "spec": "",
+          "unit": "kg",
+          "quantity": 1.212,
+          "quota_price": 11.2,
+          "market_price": 11.2,
+          "total": 13.57
+        },
+        {
+          "code": "14310111",
+          "name": "盐酸",
+          "spec": "31%合成",
+          "unit": "kg",
+          "quantity": 18,
+          "quota_price": 0.88,
+          "market_price": 0.88,
+          "total": 15.84
+        },
+        {
+          "code": "15010113",
+          "name": "石棉橡胶板",
+          "spec": "高压 δ1~6",
+          "unit": "kg",
+          "quantity": 0.7,
+          "quota_price": 33,
+          "market_price": 33,
+          "total": 23.1
+        },
+        {
+          "code": "17010171",
+          "name": "焊接钢管",
+          "spec": "DN15",
+          "unit": "m",
+          "quantity": 0.63,
+          "quota_price": 5.1,
+          "market_price": 5.1,
+          "total": 3.21
+        },
+        {
+          "code": "01290231",
+          "name": "热轧厚钢板",
+          "spec": "δ 21~30",
+          "unit": "kg",
+          "quantity": 150,
+          "quota_price": 3.33,
+          "market_price": 3.33,
+          "total": 499.5
+        },
+        {
+          "code": "31190116",
+          "name": "红钢纸",
+          "spec": "0.2~0.5",
+          "unit": "kg",
+          "quantity": 0.8,
+          "quota_price": 12,
+          "market_price": 12,
+          "total": 9.6
+        },
+        {
+          "code": "03011819",
+          "name": "六角螺栓带螺母",
+          "spec": "M12*75以下",
+          "unit": "套",
+          "quantity": 0.5,
+          "quota_price": 15,
+          "market_price": 15,
+          "total": 7.5
+        },
+        {
+          "code": "14390115",
+          "name": "氧气",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 6.12,
+          "quota_price": 3.82,
+          "market_price": 3.82,
+          "total": 23.38
+        },
+        {
+          "code": "14390141",
+          "name": "乙炔气",
+          "spec": "",
+          "unit": "m3",
+          "quantity": 2.04,
+          "quota_price": 8.82,
+          "market_price": 8.82,
+          "total": 17.99
+        },
+        {
+          "code": "19050206",
+          "name": "螺纹球阀",
+          "spec": "DN20",
+          "unit": "个",
+          "quantity": 0.5,
+          "quota_price": 40,
+          "market_price": 40,
+          "total": 20
+        },
+        {
+          "code": "QTCLF-1",
+          "name": "其他材料费",
+          "spec": "",
+          "unit": "%",
+          "quantity": 122.88,
+          "quota_price": 1,
+          "market_price": 1,
+          "total": 122.88
+        }
+      ],
+      "mechanical_details": [
+        {
+          "code": "990304016",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 16",
+          "unit": "台班",
+          "quantity": 1.7,
+          "quota_price": 890.11,
+          "market_price": 890.11,
+          "total": 1513.19
+        },
+        {
+          "code": "990401035",
+          "name": "载重汽车",
+          "spec": "装载质量(t) 10",
+          "unit": "台班",
+          "quantity": 1,
+          "quota_price": 573.79,
+          "market_price": 573.79,
+          "total": 573.79
+        },
+        {
+          "code": "990901020",
+          "name": "交流弧焊机",
+          "spec": "容量(kV·A) 32",
+          "unit": "台班",
+          "quantity": 0.5,
+          "quota_price": 83.57,
+          "market_price": 83.57,
+          "total": 41.79
+        },
+        {
+          "code": "990304052",
+          "name": "汽车式起重机",
+          "spec": "提升质量(t) 75",
+          "unit": "台班",
+          "quantity": 1,
+          "quota_price": 3063.65,
+          "market_price": 3063.65,
+          "total": 3063.65
+        }
+      ]
     }
   ],
   "processed_count": 346
