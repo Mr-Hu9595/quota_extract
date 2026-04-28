@@ -1,0 +1,5 @@
+2026-04-26 09:52-09:55
+processed_screenshots: 17
+quota_codes_extracted: 10 (1-1-1 to 1-1-10)
+data_file: extracted_quota_data_detailed.json (含人材机详细明细)
+status: completed
